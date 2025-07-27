@@ -24,3 +24,4 @@ To provide a minimal, transparent protocol for verifying whether an AI system ca
 
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0).  
 You may not use this for commercial purposes without permission.
+📄 **Full Document:** [Download AI-Failsafe-Overlay (PDF)](https://github.com/oxey1978/AI-Failsafe-Overlay/blob/main/AI-Failsafe-Overlay.pdf)
